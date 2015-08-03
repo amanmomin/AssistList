@@ -1,0 +1,46 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "AssistList",
+    "longName": "AssistList",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/Drawing.png",
+                "name": "logo",
+                "type": "png"
+            },
+            {
+                "file": "fonts/CODE Bold.ttf",
+                "name": "code_24",
+                "type": "font"
+            },
+            {
+                "file": "images/menu_icon_simplicity.png",
+                "name": "IMAGE_MENU_ICON_1",
+                "type": "png"
+            },
+            {
+                "file": "images/unchecked - Copy.png",
+                "name": "checked",
+                "type": "png"
+            },
+            {
+                "file": "images/unchecked.png",
+                "name": "unchecked",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "AssistList",
+    "uuid": "69a53987-379e-4ae7-a3c2-d08e5ffe8511",
+    "versionCode": 1,
+    "versionLabel": "2.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
